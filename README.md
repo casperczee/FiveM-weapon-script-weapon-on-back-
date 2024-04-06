@@ -1,2 +1,2 @@
 # weapon
-FiveM weapon script (weapon on back) ESX ONLY!
+FiveM weapon script (weapon on back)
